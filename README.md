@@ -2,7 +2,7 @@
 
 ### Overview
 
-This C++ program is a grades manager that allows users to add, remove, modify, and display student grades. The grades are stored in a dictionary-like data structure, where the student's name is the key and their grade is the value. The program also calculates the average grade of all students.
+This Grade Query program is a grades manager that allows users to add, remove, modify, and display student grades. The grades are stored in a dictionary-like data structure, where the student's name is the key and their grade is the value. The program also calculates the average grade of all students.
 
 ### Features
 * Add a student with their grade
